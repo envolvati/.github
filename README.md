@@ -1,2 +1,2 @@
 # .github
-About envolvati.com ad sigapro.com
+About envolvati.com and sigapro.com
